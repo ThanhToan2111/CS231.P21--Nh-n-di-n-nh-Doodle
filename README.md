@@ -2,9 +2,10 @@
 *(CS231.P21 – Doodle Recognition)*
 
 <p align="center">
-  <img src="![OIP](https://github.com/user-attachments/assets/254e2516-9f47-4874-b688-cbc55dbd0880)
-" alt="Doodle Example" width="400"/>
+  <img src="https://github.com/user-attachments/assets/254e2516-9f47-4874-b688-cbc55dbd0880" alt="Doodle Example" width="400"/>
 </p>
+
+---
 
 ## 1. Tổng quan  
 Dự án này thực hiện bài toán **nhận diện hình vẽ nguệch ngoạc (Doodle / sketch)** từ bộ dữ liệu vẽ tay, sử dụng các kỹ thuật học máy / học sâu để phân loại hình vẽ vào các lớp tương ứng.  
@@ -19,8 +20,9 @@ Mục tiêu là xây dựng một mô hình có độ chính xác cao, có khả
 - Giao diện demo (notebook / web) để người dùng thử vẽ và nhận diện  
 - Trực quan hóa kết quả: ma trận nhầm lẫn, biểu đồ accuracy / loss  
 
----
-![Uploading OIP.jpg…]()
+<p align="center">
+  <img src="docs/demo.png" alt="Demo Example" width="500"/>
+</p>
 
 ---
 
