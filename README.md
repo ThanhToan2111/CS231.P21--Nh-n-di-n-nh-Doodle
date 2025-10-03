@@ -20,10 +20,6 @@ Mục tiêu là xây dựng một mô hình có độ chính xác cao, có khả
 - Giao diện demo (notebook / web) để người dùng thử vẽ và nhận diện  
 - Trực quan hóa kết quả: ma trận nhầm lẫn, biểu đồ accuracy / loss  
 
-<p align="center">
-  <img src="docs/demo.png" alt="Demo Example" width="500"/>
-</p>
-
 ---
 
 ## 3. Hướng dẫn sử dụng
