@@ -2,7 +2,7 @@
 *(CS231.P21 – Doodle Recognition)*
 
 <p align="center">
-  <img src="![Uploading image.png…]()
+  <img src="![OIP](https://github.com/user-attachments/assets/254e2516-9f47-4874-b688-cbc55dbd0880)
 " alt="Doodle Example" width="400"/>
 </p>
 
@@ -20,6 +20,7 @@ Mục tiêu là xây dựng một mô hình có độ chính xác cao, có khả
 - Trực quan hóa kết quả: ma trận nhầm lẫn, biểu đồ accuracy / loss  
 
 ---
+![Uploading OIP.jpg…]()
 
 ---
 
