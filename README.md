@@ -2,7 +2,8 @@
 *(CS231.P21 – Doodle Recognition)*
 
 <p align="center">
-  <img src="docs/cover.png" alt="Doodle Example" width="400"/>
+  <img src="![Uploading image.png…]()
+" alt="Doodle Example" width="400"/>
 </p>
 
 ## 1. Tổng quan  
